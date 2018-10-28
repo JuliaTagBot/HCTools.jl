@@ -1,0 +1,8 @@
+name = "HCTools"
+uuid = "75e31902-dafd-11e8-02e7-b7e88359c9c1"
+authors = ["Sascha Timme <sascha.timme@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Gadfly = "c91e804a-d5a3-530f-b6f0-dfbca275c004"
+HomotopyContinuation = "f213a82b-91d6-5c5d-acf7-10f1c761b327"
